@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kruskal Lin</title>
-    <link>https://kruskallin.github.io/</link>
+    <link>https://kruskallin.github.io/docs/</link>
     <description>Recent content on Kruskal Lin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://kruskallin.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kruskallin.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
