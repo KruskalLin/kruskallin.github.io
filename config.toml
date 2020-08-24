@@ -6,7 +6,7 @@ googleAnalytics = "UA-1234-6"
 timeout=3000
 
 [params]
-  subtitle= "Undergraduate Student"
+  subtitle= "Explorer"
   interests="Coding, Math, Dancing, Piano"
   blog="http://kruskallin.github.io/blog"
 
